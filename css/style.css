@@ -1,0 +1,126 @@
+.bg-black{
+    background-color:black;
+  
+}
+   
+.bg-red{
+    background-color: red;
+  
+}
+.bg-blue{
+    background-color:blue;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-brown{
+    background-color: brown;
+}
+.bg-purple{
+    background-color: purple;
+}
+.bg-pink{
+    background-color: pink;}
+.bg-aquamarine{
+     background-color: aquamarine;
+}
+.bg-bisque{
+    background-color: bisque;
+}
+.bg-green{
+    background-color: green;
+
+}
+.bg-blueviolet{
+     background-color: blueviolet;
+}
+.bg-orange{
+     background-color: orange;
+
+}
+
+.bg-smooth-blue{
+    background-color: #AACEDB;
+
+}
+.bg-Magenta{
+    background-color: #EA3788;
+}
+.bg-Gold{
+    background-color:gold;
+}
+.bg-seagreen{
+    background-color: #2e8b57;
+}
+.bg-lightcoral{
+    background-color: #e56b70;
+}
+.bg-darkpurple{
+    background-color:#361134;
+}
+.bg-dark-orange{
+    background-color:  #ff8c00; 
+}
+.bg-salmon-pink{
+    background-color: #f391a0;
+}
+.bg-grey{
+    background-color: grey;
+}
+
+.div-size-square{
+    width:100px;
+    height: 100px;
+}
+  
+.div-size-heigh{
+    height: 240px;
+}
+
+.circle-big{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display:center;
+    text-align: center;
+    padding-top: 155px;
+    margin:10px;
+
+}
+.circle-small{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display:center;
+    text-align: center;
+    padding-top: 75px;
+    margin: 10px;
+    margin-top: 180px;
+
+}
+.circle-2small{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display:center;
+    text-align: center;
+    padding-top: 75px;
+    margin: 10px;
+    margin-top: 160px;
+
+}
+
+
+
+    
+ 
+   
+   
+
+
